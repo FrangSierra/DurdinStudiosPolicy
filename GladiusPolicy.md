@@ -1,23 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title>Privacy Policy</title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1561.4">
-  <style type="text/css">
-    p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 15.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
-    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #0000ee; -webkit-text-stroke: #0000ee}
-    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {-webkit-text-stroke: 0px #000000}
-    span.s3 {text-decoration: underline ; font-kerning: none}
-    ul.ul1 {list-style-type: disc}
-  </style>
-</head>
-<body>
 <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; line-height: 23.0px; font: 18.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>Privacy Policy</b></span></h2>
 <p class="p2"><span class="s1">Francisco García Sierra built the Gladius app as a Free app. This SERVICE is provided by Francisco García Sierra at no cost and is intended for use as is.<span class="Apple-converted-space"> </span></span></p>
 <p class="p2"><span class="s1">This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.<span class="Apple-converted-space"> </span></span></p>
